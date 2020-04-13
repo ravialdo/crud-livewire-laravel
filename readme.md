@@ -11,11 +11,11 @@ Livewire - https://laravel-livewire.com
 
 ## Cara Install Via GIT
 
-$ git clone https://github.com/ravialdo/crud-livewire-laravel.git
-$ cd crud-livewire-laravel
-$ composer update
-$ php artisan migrate
-$ php artisan serve
+$ git clone https://github.com/ravialdo/crud-livewire-laravel.git <br>
+$ cd crud-livewire-laravel <br>
+$ composer update <br>
+$ php artisan migrate <br>
+$ php artisan serve <br>
 
 Note :
 <i>
@@ -25,8 +25,8 @@ Sebelum melakukan migrate buat terlebih dahulu databasenya dengan nama <b>crud</
 ## Gambar
 
 <p align="center">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/edit.png" width="100">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/update.png" width="100">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/validate.png" width="100">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/delete.png" width="100">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/edit.png" width="200">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/update.png" width="200">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/validate.png" width="200">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/delete.png" width="200">
 </p>
