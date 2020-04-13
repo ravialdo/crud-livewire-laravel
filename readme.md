@@ -25,8 +25,8 @@ Sebelum melakukan migrate buat terlebih dahulu databasenya dengan nama <b>crud</
 ## Gambar
 
 <p align="center">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/edit.png" width="400">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/update.png" width="400">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/validate.png" width="400">
-<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/delete.png" width="400">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/edit.png" width="350">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/update.png" width="350">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/validate.png" width="350">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/delete.png" width="350">
 </p>
