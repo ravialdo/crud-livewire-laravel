@@ -5,12 +5,28 @@ Aplikasi web ini merupakan aplikasi pembelajaran untuk mengenal dasar - dasar pa
 
 
 ## Package Livewire
-Livewire adalah full-stack framework untuk Laravel, yang memungkinkan kita membuat antar muka dinamis secara mudah, tanpa meninggalkan kenyamanan Laravel atau maksudnya gaya programnya masih Laravel.
-- <i>Kawankoding.com<i>
+Livewire adalah full-stack framework untuk Laravel, yang memungkinkan kita membuat antar muka dinamis secara mudah, tanpa meninggalkan kenyamanan Laravel.
 
 Livewire - https://laravel-livewire.com
 
+## Cara Install Via GIT
+
+$ git clone https://github.com/ravialdo/crud-livewire-laravel.git
+$ cd crud-livewire-laravel
+$ composer update
+$ php artisan migrate
+$ php artisan serve
+
+Note :
+<i>
+Sebelum melakukan migrate buat terlebih dahulu databasenya dengan nama <b>crud</b>
+</i>
+
+## Gambar
+
 <p align="center">
-<i>Terimakasih untuk :<b>
-<a src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-xYhZ9omNeGK31jpwo-uRxG8m_7tN3novHGJgtLWiHhpTaxqSw6cANqKqg&s=10" width="100">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/edit.png" width="100">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/update.png" width="100">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/validate.png" width="100">
+<img src="https://github.com/ravialdo/crud-livewire-laravel/blob/master/public/img/delete.png" width="100">
 </p>
